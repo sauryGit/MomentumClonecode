@@ -17,7 +17,10 @@
 
 }
 
-
+html {
+    min-height: 460px;
+    min-width: 200px;
+}
 
 .hidden {
     display: none;
@@ -45,6 +48,7 @@ body {
     margin: 10vh 0 0 0;
     background-attachment: fixed;
     background-position: center;
+
 }
 
 h2#clock {
